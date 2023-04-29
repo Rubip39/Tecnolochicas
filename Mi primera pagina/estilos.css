@@ -1,0 +1,15 @@
+body {
+    background-color: pink;
+    / font-family: "roboto", sans-serif ;
+}
+h2 {color: hsla(330, 92%, 50%, 0.274);
+text-align: center;
+}
+p {
+    color: black;
+    font-size: 24px;
+    font-style: italic;
+}
+title{
+    text-align: center;
+}
